@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+This POC tries to simulate a MIDI player providing a simple API to make partitions.
+The main goal is to think about the implementation of a GuitarHero-Like into SextantOS using C++.
